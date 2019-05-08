@@ -1,3 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://pan123:pan123@dev-connector-project-mb9fs.mongodb.net/test?retryWrites=true"
+  "mongoURI": "mongodb+srv://pan123:pan123@dev-connector-project-mb9fs.mongodb.net/test?retryWrites=true",
+  "jwtSecret": "mysecrettoken"
 }
