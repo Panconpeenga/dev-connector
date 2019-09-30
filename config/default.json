@@ -1,4 +1,6 @@
 {
   "mongoURI": "mongodb+srv://pan123:pan123@dev-connector-project-mb9fs.mongodb.net/test?retryWrites=true",
-  "jwtSecret": "mysecrettoken"
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "00e8496a1cbd67a9da61",
+  "githubSecret": "8b94993694af2c77b58b3835ade1deb5f1981230"
 }
